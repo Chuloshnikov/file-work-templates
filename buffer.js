@@ -28,3 +28,4 @@ console.log(stringBuf.toJSON());
 console.log(tenZero.toJSON());
 console.log(stringBuf1.toString());
 console.log(tarantinoBuf.toString());
+console.log(buf1);
